@@ -1,0 +1,22 @@
+{
+  "name": "notesees",
+  "version": "1.0.0",
+  "description": "a place to take notes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greentree31/Notesees.git"
+  },
+  "author": "Melisha Evans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greentree31/Notesees/issues"
+  },
+  "homepage": "https://github.com/greentree31/Notesees#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
