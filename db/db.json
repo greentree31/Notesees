@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Set up appointment",
+        "text": "date and time",
+        "id": "1"
+    },
+    {
+        "title": "Attend teams meeting",
+        "text": "date and time",
+        "id": "2"
+    },
+    {
+        "title": "Schedule assignments",
+        "text": "enter task",
+        "id": "3"
+    },
+    {
+        "title": "Create daily report",
+        "text": "enter task",
+        "id": "4"
+    },
+    {
+        "title": "Add courses to server",
+        "text": "date and time",
+        "id": "5"
+    }
+    {
+        "title": "Email client completion date",
+        "text": "date and time",
+        "id": "6"
+    }
+]
