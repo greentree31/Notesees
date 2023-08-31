@@ -4,9 +4,6 @@ const htmlRoutes = require('./routes/htmlRoutes');
 //Initializing the app and creating a PORT
 const app = express();
 
-app.get('/', (request, response) => {
-    response.send('Hello World');
-})
 const PORT = process.env.PORT || 3001;
 
 app.use(express.json());
